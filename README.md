@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Summary
+
+## :link: Links:
+
 <!--
 **Jdude2022/Jdude2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
