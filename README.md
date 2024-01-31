@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 
+👋 My Name is John and welcome to my github page!
+Some things that I enjoy other than programming are:
+  1. Puzzles
+  2. Art
+  3. Music
+  4. Video Games!
+
 
 ## Summary
 
