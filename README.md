@@ -1,11 +1,15 @@
 ### Hi there 
-👋 My Name is John and welcome to my github page!
-Some things that I enjoy other than programming are:
-  1. Puzzles
-  2. Art
-  3. Music
-  4. Video Games!
+👋 My Name is John and welcome to my github page! Have a wonderful 2025!!
 
+## 2025 focus Goals
+
+# Tech
+
+# Art
+
+# Music
+
+# Spanish
 
 ## Summary
 
