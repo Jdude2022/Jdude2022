@@ -1,15 +1,22 @@
-### Hi there 
+## Hi there 
 👋 My Name is John and welcome to my github page! Have a wonderful 2025!!
 
-## 2025 focus Goals
+## 2025  Top 5 focused Goals
 
-# Tech
+### 1. Recover from carpal Tunnel
+  Just going to take this super easy, Minimal typing when I can
 
-# Art
+### 2. Daily 15 - 30 minutes of Piano Practise
 
-# Music
+### 3. XR
 
-# Spanish
+### 4. Blender
+
+### 5. Data analytics to pay the bills
+
+### Honorable Mentions
+#### Houdini
+#### Spanish
 
 ## Summary
 
